@@ -1,0 +1,300 @@
+{
+    "cp": {
+        "specialty": "Preparatory Cycle",
+        "semesters ": {
+            "first semester modules": [
+                "Algebra 1",
+                "Analysis 1",
+                "Electrostatics and Magnetostatics",
+                "Mechanics of Material Points",
+                "Introduction to Computer Science and Algorithms",
+                "Foreign Languages (English/French)",
+                "University Work Methodology"
+            ],
+            "second semester modules": [
+                "Algebra 2",
+                "Analysis 2",
+                "General Chemistry",
+                "Geometrical Optics and Physical Optics",
+                "C Programming",
+                "Foreign Languages (English/French)",
+                "Digital Culture"
+            ],
+            "third semester modules": [
+                "Algebra 3: Quadratic Algebra",
+                "Analysis 3: Functions of Multiple Variables",
+                "Physics 3: Electrokinetics and Electromagnetism",
+                "Mechanics 2: Solid Mechanics",
+                "Computer Science 2: C Programming",
+                "Languages and Communication 3: Technical English & Technical French"
+            ],
+            "fourth semester modules": [
+                "Applied Mathematics: Probability and Descriptive Statistics & Numerical Analysis",
+                "Analysis 4: Integrals and Differential Forms",
+                "Physics 4: Thermodynamics and Fluid Statics",
+                "Electronics: Analog Electronics",
+                "Computer Science 3: Computer Tools",
+                "Chemistry 2: Thermochemistry & Crystallochemistry"
+            ]
+        }
+    },
+    "gc": {
+        "specialty": "Civil Engineering",
+        "semesters": {
+            "first semester modules": [
+                "Fluid Mechanics and Mechanics of Continuous Media",
+                "Urbanism, Topography, Building Drawing, and Architecture",
+                "Material Resistance 1",
+                "Mathematics for Engineers",
+                "Construction Materials",
+                "Foreign Languages (English/French)",
+                "Cultural and Artistic Competences"
+            ],
+            "second semester modules": [
+                "Equations of Mathematical Physics",
+                "Logistics and Transport: Roads 1",
+                "Geotechnics 1",
+                "Reinforced Concrete 1",
+                "Roads, Networks, and Lighting",
+                "Foreign Languages (English/French)",
+                "Artificial Intelligence"
+            ],
+            "third semester modules": [
+                "Business Management Strategy and Enterprise Management",
+                "Languages and Communication 3",
+                "Material Resistance 3",
+                "Geotechnics 2 and Underground Hydraulics",
+                "Reinforced Concrete 2",
+                "Hydrology",
+                "Roads, Networks, and Lighting",
+                "Hydraulics and Hydraulic Machines"
+            ],
+            "fourth semester modules": [ 
+                "Public Markets and Social Law",
+                "Project Management and Analysis",
+                "Numerical Modeling",
+                "Metal Construction 1",
+                "Electric Construction and Installations Practices",
+                "Urban Hydraulics",
+                "Pre-stressed Concrete",
+                "Roads 2"
+            ],
+            "fifth semester modules": [
+                "Sustainable Water Resource Management",
+                "Water Resources and Hydrology",
+                "Hydraulic Constructions 1",
+                "Hydraulic Constructions 2",
+                "Fluvial Dynamics",
+                "Maritime Constructions",
+                "Hydraulics 2",
+                "Hydraulic Computing"
+            ],
+            "sixth semester modules": [
+                "End of Year Project (PFE)"
+            ]
+        }
+    },
+    "gi": {
+        "specialty": "Computer Engineering",
+        "semesters": {
+            "first semester modules": [
+                "Operations Research and Graph Theory",
+                "Computer Architecture",
+                "Advanced C Programming and Data Structures",
+                "Information Systems and Relational Databases",
+                "Computer Networks",
+                "Cultural and Artistic Skills",
+                "Foreign Languages (English/French)"
+            ],
+            "second semester modules": [
+                "Prompt Engineering for Developers",
+                "Software Architecture and UML",
+                "Web1: Web Technologies and PHP5",
+                "Foreign Languages (English/French)",
+                "Advanced Algorithms and Complexity",
+                "Object-Oriented Programming C++",
+                "Linux and System Programming"
+            ],
+            "third semester modules": [
+                "Python for Data Science",
+                "Advanced Java Programming",
+                "Professional Communication Languages 2 & Soft Skills",
+                "Linux and System Programming",
+                "Advanced Database Administration",
+                "Network and System Administration"
+            ],
+            "fourth semester modules": [
+                "Entrepreneurship 2",
+                "Machine Learning",
+                "Project Management and Software Engineering",
+                "Cryptosystems and Computer Security",
+                "Advanced Java EE Frameworks and .Net",
+                "Web 2: Modern Web Applications"
+            ],
+            "fifth semester modules": [
+                "Mobile Application Development",
+                "Virtualization and Cloud Computing",
+                "Enterprise Resource Planning ERP",
+                "Software Engineering, Quality, Testing, and Integration",
+                "Entrepreneurship 3",
+                "Embedded Systems and Real-Time"
+            ],
+            "sixth semester modules": [
+                "End of Year Project (PFE)"
+            ]
+        }
+    },
+    "id": {
+        "specialty": "Data Engineering",
+        "semesters": {
+            "first semester modules": [
+                "Matrix Numerical Analysis and Inferential Statistics",
+                "Theory of Languages and Compilation",
+                "Information Systems and Databases",
+                "Computer Architecture and Operating Systems",
+                "Data Structures and Advanced Algorithms",
+                "Professional Communication 1: Foreign Languages",
+                "Cultural and Artistic Competences"
+            ],
+            "second semester modules": [
+                "Python Programming and Web Basics",
+                "Data Mining",
+                "High Dimensional Statistics",
+                "Object-Oriented Programming Java",
+                "Database Administration and Optimization",
+                "Professional Communication II: Foreign Languages",
+                "Entrepreneurship and Project Management"
+            ],
+            "third semester modules": [
+                "Artificial Intelligence I – Machine Learning",
+                "Python Programming / Functional Programming",
+                "Software Architecture and UML",
+                "Foundations of Big Data",
+                "Professional Communication and Soft Skills -II-",
+                "Advanced Databases"
+            ],
+            "fourth semester modules": [
+                "Advanced Big Data",
+                "Artificial Intelligence II – Deep Learning",
+                "Data Warehouse and Data Lake",
+                "Parallel Programming and Architecture",
+                "Natural Language Processing (NLP) and Its Applications",
+                "Entrepreneurship -II-"
+            ],
+            "fifth semester modules": [
+                "Big Data Visualization",
+                "Business Intelligence and Strategic Monitoring",
+                "Entrepreneurship -III-",
+                "Social Network Mining",
+                "Web Marketing and CRM",
+                "Digital Transformation"
+            ],
+            "sixth semester modules": [
+                "End of Year Project (PFE)"
+            ]
+        }
+    },
+    "tdia": {
+        "specialty": "Digital Transformation and IT Applications",
+        "semesters": {
+            "first semester modules": [
+                "Theory of Languages and Compilation",
+                "Information Systems and Databases",
+                "Data Structures and Advanced Algorithms",
+                "Enterprise Architecture and Digital Transformation",
+                "Computer Architecture and Operating Systems",
+                "Foreign Languages (English/French)",
+                "Cultural and Artistic Skills"
+            ],
+            "second semester modules": [
+                "Object-Oriented Programming Java",
+                "Python Programming / Functional Programming",
+                "Web Development",
+                "IT Project Management",
+                "Digital Industry",
+                "Foreign Languages (English/French)",
+                "Marketing and Management for Information Technologies"
+            ],
+            "third semester modules": [
+                "Cloud Computing",
+                "Information Systems Mapping",
+                "Artificial Intelligence Fundamentals",
+                "Software Architecture and UML",
+                "Professional Communication and Soft Skills 2",
+                "Digital Project Management"
+            ],
+            "fourth semester modules": [
+                "Artificial Intelligence Applications",
+                "Data Ingestion and Storage",
+                "Big Data",
+                "Data Privacy and Security",
+                "Cyber Security",
+                "Entrepreneurship"
+            ],
+            "fifth semester modules": [
+                "Strategic, Scientific, and Technological Monitoring",
+                "IT Governance and Urbanization",
+                "DevOps",
+                "Innovation Engineering & Digitalization",
+                "Web Marketing and CRM",
+                "Business English"
+            ],
+            "sixth semester modules": [
+                "End of Year Project (PFE)"
+            ]
+        }
+    },
+    "geer": {
+        "specialty": "Energy Engineering",
+        "semesters": {
+            "first semester modules": [
+                "Mathematics for Engineers 1 and 2",
+                "Electrotechnics and Electrical Networks",
+                "Fluid Mechanics",
+                "Industrial Regulation / Industrial Drawing",
+                "Energy Production / Energy Diagnosis",
+                "Foreign Languages (English/French)",
+                "Digital Culture (Algorithmic and Python Programming)"
+            ],
+            "second semester modules": [
+                "Numerical Modeling 1 and 2",
+                "Power Electronics",
+                "Material Resistance and Engineering Materials",
+                "Hydraulics",
+                "Heat Transfer by Conduction and Radiation",
+                "Foreign Languages (English/French)",
+                "Fundamentals of Artificial Intelligence"
+            ],
+            "third semester modules": [
+                "Entrepreneurship and Project Management",
+                "Numerical Modeling 2",
+                "Metrology and Energy Diagnosis",
+                "Electrotechnics and Electrical Machines",
+                "Mechanical Vibrations and Acoustics",
+                "Heat Transfer by Convection",
+                "Flow and Transfer during Phase Change",
+                "Energy Production and Storage"
+            ],
+            "fourth semester modules": [
+                "Combustion and Air Pollution",
+                "Heat Exchangers and Thermal Machines",
+                "Mass Transfer",
+                "Turbomachines and Volumetric Machines",
+                "Industrial and Domestic Cooling",
+                "Thermal Solar Systems",
+                "Photovoltaic Solar Systems",
+                "Wind Energy"
+            ],
+            "fifth semester modules": [
+                "Human Resources and Public Markets",
+                "Power Electronics",
+                "Heating, Air Conditioning, and Cooling",
+                "Energy Management",
+                "Energy and Environment"
+            ],
+            "sixth semester modules": [
+                "End of Year Project (PFE)"
+            ]
+        }
+    }
+}

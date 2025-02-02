@@ -1,0 +1,54 @@
+{
+    "preparatory": {
+        "cp means preparatory cycle": "Preparatory Cycle",
+        "ap1 means preparatory year 1": "Preparatory Year 1",
+        "ap2 means preparatory year 2": "Preparatory Year 2",
+        "cp1 means preparatory year 1": "Preparatory Year 1",
+        "cp2 means preparatory year 2": "Preparatory Year 2"
+    },
+    "civil_engineering": {
+        "gc1 means civil engineering - 1st year": "Civil Engineering - 1st Year",
+        "gc2 means civil engineering - 2nd year": "Civil Engineering - 2nd Year",
+        "gc3 means civil engineering - 3rd year": "Civil Engineering - 3rd Year",
+        "gc3_hyd means civil engineering - 3rd year (hydraulics)": "Civil Engineering - 3rd Year (Hydraulics)",
+        "gc3_bpc means civil engineering - 3rd year (bpc)": "Civil Engineering - 3rd Year (BPC)"
+    },
+    "computer_engineering": {
+        "gi1 means computer engineering - 1st year": "Computer Engineering - 1st Year",
+        "gi2 means computer engineering - 2nd year": "Computer Engineering - 2nd Year",
+        "gi3 means computer engineering - 3rd year": "Computer Engineering - 3rd Year",
+        "gi3_gl means computer engineering - 3rd year (software engineering)": "Computer Engineering - 3rd Year (Software Engineering)",
+        "gi3_bi means computer engineering - 3rd year (business intelligence)": "Computer Engineering - 3rd Year (Business Intelligence)"
+    },
+    "data_engineering": {
+        "id1 means data engineering - 1st year": "Data Engineering - 1st Year",
+        "id2 means data engineering - 2nd year": "Data Engineering - 2nd Year",
+        "id3 means data engineering - 3rd year": "Data Engineering - 3rd Year"
+    },
+    "digital_transformation": {
+        "tdia1 means digital transformation and artificial intelligence - 1st year": "Digital Transformation and Artificial Intelligence - 1st Year",
+        "tdia2 means digital transformation and artificial intelligence - 2nd year": "Digital Transformation and Artificial Intelligence - 2nd Year",
+        "tdia3 means digital transformation and artificial intelligence - 3rd year": "Digital Transformation and Artificial Intelligence - 3rd Year"
+    },
+    "energy_engineering": {
+        "geer1 means energy engineering and renewable energies - 1st year": "Energy Engineering and Renewable Energies - 1st Year",
+        "geer2 means energy engineering and renewable energies - 2nd year": "Energy Engineering and Renewable Energies - 2nd Year",
+        "geer3 means energy engineering and renewable energies - 3rd year": "Energy Engineering and Renewable Energies - 3rd Year",
+        "g2er1 means energy engineering and renewable energies - 1st year": "Energy Engineering and Renewable Energies - 1st Year",
+        "g2er2 means energy engineering and renewable energies - 2nd year": "Energy Engineering and Renewable Energies - 2nd Year",
+        "g2er3 means energy engineering and renewable energies - 3rd year": "Energy Engineering and Renewable Energies - 3rd Year"
+    },
+    "environmental_engineering": {
+        "gee1 means water and environmental engineering - 1st year": "Water and Environmental Engineering - 1st Year",
+        "gee2 means water and environmental engineering - 2nd year": "Water and Environmental Engineering - 2nd Year",
+        "gee3 means water and environmental engineering - 3rd year": "Water and Environmental Engineering - 3rd Year",
+        "g2ee1 means water and environmental engineering - 1st year": "Water and Environmental Engineering - 1st Year",
+        "g2e2 means water and environmental engineering - 2nd year": "Water and Environmental Engineering - 2nd Year",
+        "g2e3 means water and environmental engineering - 3rd year": "Water and Environmental Engineering - 3rd Year"
+    },
+    "mechanical_engineering": {
+        "gm1 means mechanical engineering - 1st year": "Mechanical Engineering - 1st Year",
+        "gm2 means mechanical engineering - 2nd year": "Mechanical Engineering - 2nd Year",
+        "gm3 means mechanical engineering - 3rd year": "Mechanical Engineering - 3rd Year"
+    }
+}

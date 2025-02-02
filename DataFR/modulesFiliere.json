@@ -1,0 +1,409 @@
+{
+    "cp": {
+        "filiere": "cp",
+        "semesters": {
+            "S1 modules": [
+                "Algèbre 1",
+                "Analyse 1",
+                "Electrostatique et Magnétostatique",
+                "Mécanique du point matériel",
+                "Initiation à l’informatique et algorithmique",
+                "Langues Etrangères (Anglais / Français)",
+                "Méthodologie de travail universitaire"
+            ],
+            "S2 modules": [
+                "Algèbre 2",
+                "Analyse 2",
+                "Chimie générale",
+                "Optique géométrique et Optique physique",
+                "Programmation C",
+                "Langues Etrangères (Anglais / Français)",
+                "Culture digitale"
+            ],
+            "S3 modules": [
+                "Algèbre 3 : Algèbre quadratique",
+                "Analyse 3 : Fonctions de plusieurs variables",
+                "Physique 3 : Electrocinétique et Electromagnétisme",
+                "Mécanique 2 : Mécanique du solide",
+                "Informatique 2 : Programmation C",
+                "Langues et communications 3 : TEC Français & TEC Anglais"
+            ],
+            "S4 modules": [
+                "Mathématiques appliquées : Probabilités et statistiques descriptives & Analyse numérique",
+                "Analyse 4 : Intégrales et formes différentielles",
+                "Physique 4 : Thermodynamique et Statique des fluides",
+                "Electronique : Electronique analogique",
+                "Informatique 3 : Outils informatique",
+                "Chimie 2 : Thermochimie & Cristallochimie"
+            ]
+        }
+    },
+    "gc": {
+        "filiere": "gc",
+        "semesters": {
+            "S1 modules": [
+                "MECANIQUE DES FLUIDES ET MECANIQUE DES MILIEUX CONTINUS",
+                "URBANISME, TOPOGRAPHIE, DESSIN DE BATIMENT ET ARCHITECTURE",
+                "RESISTANCE DES MATERIAUX 1",
+                "MATHEMATIQUE DE L'INGENIEUR",
+                "MATERIAUX DE CONSTRUCTION",
+                "LANGUES ETRANGERES (ANGLAIS /FRANÇAIS)",
+                "COMPÉTENCES CULTURELLES ET ARTISTIQUES"
+            ],
+            "S2 modules": [
+                "EQUATION DE LA PHYSIQUE MATHEMATIQUE",
+                "LOGISTIQUE ET TRANSPORT : ROUTES 1",
+                "GEOTECHNIQUE I",
+                "BETON ARME 1",
+                "VOIRIE, RESEAUX DIVERS ET ECLAIRAGISME",
+                "LANGUES ETRANGERES (Anglais /Français)",
+                "INTELLIGENCE ARTIFICIELLE"
+            ],
+            "S3 modules": [
+                "Stratégie de gestion et gestion de l’entreprise",
+                "Langues et Communication 3",
+                "Résistance des Matériaux 3",
+                "Géotechnique 2 et Hydraulique Souterraine",
+                "Béton Armé 2",
+                "Hydrologie",
+                "Voirie, réseaux divers et éclairagisme",
+                "Hydraulique et Machines Hydrauliques"
+            ],
+            "S4 modules": [
+                "Marchés publics et droit social",
+                "Gestion et Analyse de Projets",
+                "Modélisations Numériques",
+                "Construction Métallique 1",
+                "Pratiques des Constructions et Installations Electriques",
+                "Hydraulique Urbaine",
+                "Béton précontraint",
+                "Route 2"
+            ],
+            "S5 modules": [
+                "Gestion Durable des Ressources en Eau",
+                "Ressources en Eau et Hydrologie",
+                "Constructions Hydrauliques 1",
+                "Constructions Hydrauliques 2",
+                "Dynamique Fluviale",
+                "Constructions Maritimes",
+                "Hydraulique 2",
+                "Hydraulique Informatique"
+            ],
+            "S6 modules": [
+                "Projet de Fin d'Année (PFE)"   
+            ]
+        }
+    },
+    "gi": {
+        "filiere": "gi",
+        "semesters": {
+            "S1 modules": [
+                "Recherche opérationnelle et théorie des graphes",
+                "Architecture des ordinateurs",
+                "Langage C avancé et structures de données",
+                "Systèmes d’Information et Bases de Données Relationnelles",
+                "Réseaux informatiques",
+                "Culture and Art skills",
+                "Langues Etrangéres (Anglais /Français)"
+            ],
+            "S2 modules": [
+                "Ingénierie de prompts pour développeurs",
+                "Architecture Logicielle et UML",
+                "Web1 : Technologie du Web et PHP5",
+                "Langues Etrangéres (Anglais /Français)",
+                "Algorithmique Avancée et complexité",
+                "Programmation Orientée Objet C++",
+                "Linux et programmation systéme"
+            ],
+            "S3 modules": [
+                "Python pour les sciences de données",
+                "Programmation Java Avancée",
+                "Langues et Communication Professionnelle 2 & Soft Skils",
+                "Linux et programmation système",
+                "Administration des Bases de données Avancées",
+                "Administration réseaux et systèmes"
+            ],
+            "S4 modules": [
+                "Entreprenariat 2",
+                "Machine Learning",
+                "Gestion de projet et Génie logiciel",
+                "Crypto-systèmes et sécurité Informatique",
+                "Frameworks Java EE avancés et .Net",
+                "Web 2 : Applications Web modernes"
+            ],
+            "S5 modules": [
+                "Développement des applications mobiles",
+                "Virtualisation et Cloud Computing",
+                "Enterprise Resource Planning ERP",
+                "Ingénierie logicielle, Qualité, Test et Intégration",
+                "Entreprenariat 3",
+                "Système embarqué et temps réel"
+            ],
+            "S6 modules": [
+                "Projet de Fin d'Année (PFE)"
+            ]
+        }
+    },
+    "id": {
+        "filiere": "id",
+        "semesters": {
+            "S1 modules": [
+                "Analyse numérique matricielle et Statistique Inférentielle",
+                "Théorie des langages et compilation",
+                "Systèmes d’Information et Bases de Données",
+                "Architecture des ordinateurs et systèmes d’exploitation (Computer Architectures and Organisation)",
+                "Structure de données et algorithmique avancée",
+                "Communication Professionnelle 1 : Langues Etrangères",
+                "Compétences culturelles et artistiques"
+            ],
+            "S2 modules": [
+                "Programmation en Python et Bases du Web",
+                "Data Mining",
+                "Statistique en grande dimension",
+                "Programmation orientée objet java",
+                "Administration et optimisation des bases de données",
+                "Communication Professionnelle II : Langues Etrangères",
+                "Entreprenariat et Gestion de projets"
+            ],
+            "S3 modules": [
+                "Intelligence Artificielle I – Machine Learning",
+                "Programmation Python / Programmation fonctionnelle",
+                "Architecture Logicielle et UML",
+                "Fondements du Big Data",
+                "Communication Professionnelle et Soft Skills -II-",
+                "Bases de données avancées"
+            ],
+            "S4 modules": [
+                "Big Data Avancées",
+                "Intelligence Artificielle II – Deep Learning",
+                "Data Warehouse et Data Lake",
+                "Programmation et architecture Parallèle",
+                "Traitement Automatique de Langue (TAL) naturelle et ses applications",
+                "Entreprenariat -II-"
+            ],
+            "S5 modules": [
+                "Big Data Visualisation",
+                "Business Intelligence et Veille Stratégique",
+                "Entreprenariat -III-",
+                "Social Network Mining",
+                "Web Marketing et CRM",
+                "Transformation digitale"
+            ],
+            "S6 modules": [
+                "Projet de Fin d'Année (PFE)"
+            ]
+        }
+    },
+    "tdia": {
+        "filiere": "tdia",
+        "semesters": {
+            "S1 modules": [ 
+                "Théorie des langages et compilation",
+                "Systèmes d’Information et Bases de Données",
+                "Structure de données et Algorithmique avancée",
+                "Architecture d'entreprise et transformation digitale",
+                "Architecture des ordinateurs et systèmes d’exploitation",
+                "Langues Etrangéres (Anglais /Français)",
+                "Compétences en culture et en art"
+            ],
+            "S2 modules": [
+                "Programmation Orientée Objet Java",
+                "Programmation Python / Programmation fonctionnelle",
+                "Développement Web",
+                "Gestion de projets informatiques",
+                "Industrie de numérique",
+                "Langues Etrangéres (Anglais /Français)",
+                "marketing et management pour les technologies de l'information"
+            ],
+            "S3 modules": [
+                "Cloud computing",
+                "Cartographie des systèmes d'information",
+                "Bases de Intelligence Artificielle",
+                "Architecture Logicielle et UML",
+                "Communication Professionnelle et Soft Skills 2",
+                "Gestion de projets digitaux"
+            ],
+            "S4 modules": [
+                "Applications de l’Intelligence Artificielle",
+                "Ingestion et stockage des données",
+                "Big data",
+                "Droit et sécurité des données",
+                "Cyber Security",
+                "Entreprenariat"
+            ],
+            "S5 modules": [
+                "La Veille Stratégique, Scientifique et Technologique",
+                "Gouvernance et Urbanisation des SI",
+                "DevOps",
+                "INNOVATION ENGINEERING & Digitalisation",
+                "WEB MARKETING ET CRM",
+                "Business English"
+            ],
+            "S6 modules": [
+                "Projet de Fin d'Année (PFE)"
+            ]
+        }
+    },
+    "geer": {
+        "filiere": "geer",
+        "semesters": {
+            "S1 modules": [
+                "Mathématiques pour l’ingénieur 1 et 2",
+                "Electrotechnique ET Réseaux électriques",
+                "Mécanique des fluides",
+                "Régulation industrielle / Dessin Industriel",
+                "Production de l'énergie / diagnostic énergétique",
+                "Langues Etrangéres (Anglais /Français)",
+                "Culture digitale (Algorithmique et programmation en Python)"
+            ],
+            "S2 modules": [
+                "Modélisation numérique 1 et 2",
+                "Electronique de puissance",
+                "Résistance des Matériaux et Matériaux pour l'ingénieur",
+                "Hydraulique",
+                "Transferts thermiques par conduction et rayonnement",
+                "Langues Etrangéres (Anglais /Français)",
+                "Les bases de l’intelligence artificielle"
+            ],
+            "S3 modules": [
+                "Entrepreneuriat et Management de projet",
+                "Modélisation numérique 2",
+                "Métrologie et diagnostic énergétique",
+                "Electrotechnique et machines électriques",
+                "Vibrations mécaniques et acoustiques",
+                "Transferts de chaleur par convection",
+                "Ecoulement et transfert en changement de phase",
+                "Production et stockage de l'énergie"
+            ],
+            "S4 modules": [
+                "Combustion et Pollution atmosphérique",
+                "Echangeurs et machines thermiques",
+                "Transfert de matière",
+                "Turbomachines et machines volumétriques",
+                "Froid Industriel et domestique",
+                "Systèmes solaires thermiques",
+                "Systèmes solaires photovoltaïques",
+                "Energie éolienne"
+            ],
+            "S5 modules": [
+                "Ressources humaines et marchés publics",
+                "Electronique de puissance",
+                "Chauffage, climatisation et conditionnement d’air",
+                "Management de l'énergie",
+                "Énergie hydroélectrique et nucléare",
+                "Energie géothermique et bioénergie",
+                "Efficacité énergétique",
+                "Audit énergétique"
+            ],
+            "S6 modules": [
+                "Projet de Fin d'Etude (PFE)"
+            ]
+        }
+    },
+    "gee": {
+        "filiere": "gee",
+        "semesters": {
+            "S1 modules": [
+                "Mécanique des fluides et Hydraulique avancée pour l’environnement",
+                "Biologie pour l’ingénieur",
+                "Analyses des données statistique et Informatique Appliquée",
+                "Chimie pour l’ingénieur",
+                "Géophysique et Géotechnique appliquées à l’environnement",
+                "Anglais /Français",
+                "Compétences culturelles et scientifiques"
+            ],
+            "S2 modules": [
+                "Desalination and Process engineering",
+                "Hydrologie et Hydrogéologie",
+                "Gestion des écosystèmes et Ecotoxicologie",
+                "Techniques d'analyse avancées",
+                "Changements climatiques et Développement durable",
+                "Chinoise / Espagnole",
+                "Innovative Project Management"
+            ],
+            "S3 modules": [
+                "Energies renouvelables et efficacité énergétique",
+                "Génie des procédés pour l’environnement.",
+                "Géophysique appliquée à l‘environnement",
+                "Management qualité, hygiene, sécurité et environnement",
+                "Communication et langues étrangères",
+                "Management et outils de pilotage economique"
+            ],
+            "S4 modules": [
+                "Gestion des risques industriels et naturels",
+                "Etude d’impact sur l’environnement/Analyse des cycles de vie (ACV)",
+                "Analyses des données et tests statistiques",
+                "Aspects environnementaux/ Gestion et restauration des écosystèmes",
+                "Formation humaine et managerielle",
+                "Marchés publiques et droit social"
+            ],
+            "S5 modules": [
+                "Production et alimentation en eau potable/ Gestion des ressources hydriques",
+                "Gestion et traitement des déchets solides urbains et industriels",
+                "Pollution atmosphérique et techniques de traitement de l’air",
+                "Gestion et traitement des eaux usées urbains et industriels.",
+                "Réseau d’assainissement",
+                "Décontamination et restauration des sols"
+            ],
+            "S6 modules": [
+                "Projet de Fin d'Année (PFE)"
+            ]
+        }
+    },
+    "gm": {
+        "filiere": "gm",
+        "semesters": {
+            "S1 modules": [
+                "MATHEMATIQUE POUR L’INGENIEUR / RECHERCHE OPERATIONNELLE",
+                "MECANIQUE DES MILIEUX CONTINUS / ELASTICITE LINEAIRE",
+                "RESISTANCE DES MATERIAUX",
+                "MECANIQUE DES FLUIDES",
+                "VIBRATIONS & ONDES",
+                "LANGUES ETRANGERES I",
+                "PYTHON POUR L’INGENIEUR"
+            ],
+            "S2 modules": [
+                "DESSIN INDUSTRIEL / DAO",
+                "ELECTROTECHNIQUE / MACHINES ELECTRIQUE",
+                "METHODES NUMERIQUES & PROGRAMMATION AVANCEE",
+                "METALLURGIE/ SCIENCES DES MATERIAUX",
+                "THERMODYNAMIQUE APPLIQUEES & TECHNOLOGIE FONCTIONNELLE DE L’AUTOMOBILE (TFA)",
+                "LANGUES ETRANGERES II",
+                "CULTURE AND ART SKILLS"
+            ],
+            "S3 modules": [
+                "Modélisation numérique & Simulation",
+                "Métrologie / CND",
+                "Fabrication mécanique",
+                "Transmission de puissance / Eléments de machines",
+                "DAO",
+                "Mécanique de la rupture / Endommagement",
+                "TEC / Anglais II",
+                "Gestion commerciale / Management de projet technique"
+            ],
+            "S4 modules": [
+                "Transferts thermiques / Machines énergétiques",
+                "Tribologie et lubrification",
+                "Construction mécanique",
+                "Choix de matériaux pour la conception mécanique",
+                "RDM avancée",
+                "CMAO",
+                "Innovation et créativité / Analyse fonctionnelle",
+                "Entreprenariat & Leadership"
+            ],
+            "S5 modules": [
+                "Maintenance, fiabilité & Sûreté de fonctionnement",
+                "Contrôle des vibrations et du bruit",
+                "Logistique / Maitrise statistique des processus",
+                "Mécanique des structures",
+                "Robotique & Intelligence artificielle",
+                "Gestion de production et de la qualité",
+                "Management hygiène, sécurité, qualité et environnement",
+                "Psychologie du travail & Anglais technique"
+            ] , 
+            "S6 modules": [
+                "Projet de Fin d'Etude (PFE)"
+            ]
+        }
+    }
+}

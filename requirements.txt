@@ -1,0 +1,14 @@
+fastapi
+google-generativeai
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-qdrant
+langserve
+langsmith
+sse_starlette
+uvicorn
+streamlit-local-storage
+langchain_mongodb
+streamlit

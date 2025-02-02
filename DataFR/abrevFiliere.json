@@ -1,0 +1,54 @@
+{
+    "preparatory": {
+        "cp ": "Cycle Préparatoire",
+        "ap1": "Année Préparatoire 1",
+        "ap2": "Année Préparatoire 2",
+        "cp1": "Année Préparatoire 1",
+        "cp2": "Année Préparatoire 2"
+    },
+    "civil_engineering": {
+        "gc1": "Génie Civil - 1ère année",
+        "gc2": "Génie Civil - 2ème année",
+        "gc3": "Génie Civil - 3ème année",
+        "gc3_hyd": "Génie Civil - 3ème année (Hydraulique)",
+        "gc3_bpc": "Génie Civil - 3ème année (BPC)"
+    },
+    "computer_engineering": {
+        "gi1": "Génie Informatique  1ère année",
+        "gi2": "Génie Informatique  2ème année",
+        "gi3": "Génie Informatique  3ème année",
+        "gi3_gl": "Génie Informatique  3ème année (Génie Logiciel)",
+        "gi3_bi": "Génie Informatique  3ème année (Business Intelligence)"
+    },
+    "data_engineering": {
+        "id1": "Ingénierie des Données  1ère année",
+        "id2": "Ingénierie des Données  2ème année",
+        "id3": "Ingénierie des Données  3ème année"
+    },
+    "digital_transformation": {
+        "tdia1": "Transformation Digitale et Intelligence Artificielle  1ère année",
+        "tdia2": "Transformation Digitale et Intelligence Artificielle  2ème année",
+        "tdia3": "Transformation Digitale et Intelligence Artificielle  3ème année"
+    },
+    "energy_engineering": {
+        "geer1": "Génie énergétique et énergies renouvelables  1ère année",
+        "geer2": "Génie énergétique et énergies renouvelables  2ème année",
+        "geer3": "Génie énergétique et énergies renouvelables  3ème année",
+        "g2er1": "Génie énergétique et énergies renouvelables  1ère année",
+        "g2er2": "Génie énergétique et énergies renouvelables  2ème année",
+        "g2er3": "Génie énergétique et énergies renouvelables  3ème année"
+    },
+    "environmental_engineering": {
+        "gee1": "Génie de l’Eau et de l’Environnement  1ère année",
+        "gee2": "Génie de l’Eau et de l’Environnement  2ème année",
+        "gee3": "Génie de l’Eau et de l’Environnement  3ème année",
+        "g2ee1": "Génie de l’Eau et de l’Environnement  1ère année",
+        "g2e2": "Génie de l’Eau et de l’Environnement  2ème année",
+        "g2e3": "Génie de l’Eau et de l’Environnement  3ème année"
+    },
+    "mechanical_engineering": {
+        "gm1": "Génie Mécanique  1ère année",
+        "gm2": "Génie Mécanique  2ème année",
+        "gm3": "Génie Mécanique  3ème année"
+    }
+}
